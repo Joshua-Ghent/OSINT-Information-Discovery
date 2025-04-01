@@ -3,7 +3,7 @@
 
 ## Objective
 
-TThe objective of this lab was to practice ethical OSINT (Open-Source Intelligence) techniques by conducting targeted searches on oneself, applying advanced Google hacking filters, and analyzing Slack workspace data using grep commands. The lab emphasized awareness of publicly available information and how attackers may gather personal details or sensitive metadata.
+The objective of this lab was to practice ethical OSINT (Open-Source Intelligence) techniques by conducting targeted searches on oneself, applying advanced Google hacking filters, and analyzing Slack workspace data using grep commands. The lab emphasized awareness of publicly available information and how attackers may gather personal details or sensitive metadata.
 ### Skills Learned
 
 - Hardening web browsers for safer browsing (Firefox security settings).
